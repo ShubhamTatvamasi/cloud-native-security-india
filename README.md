@@ -1,5 +1,6 @@
 # cloud-native-security-india
 
+[Best Practices](https://github.com/cncf/communitygroups/blob/main/best_practices.md)
 
 Project | Company | Topic Covered | Meetup Date
 ---|---|---|---
