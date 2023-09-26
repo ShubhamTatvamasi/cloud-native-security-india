@@ -2,9 +2,9 @@
 
 [Best Practices](https://github.com/cncf/communitygroups/blob/main/best_practices.md)
 
-Project | Company | Topic Covered | Meetup Date
----|---|---|---
-[KubeArmor](https://github.com/kubearmor/KubeArmor) | [AccuKnox](https://github.com/accuknox) | ✅ | [26 August 2023](https://community.cncf.io/events/details/cncf-cloud-native-security-india-presents-kubernetes-security-meetup/)
+Project | Company | Topic Covered | Speaker | Meetup Date
+---|---|---|---|---
+[KubeArmor](https://github.com/kubearmor/KubeArmor) | [AccuKnox](https://github.com/accuknox) | ✅ | [Barun Acharya](https://www.linkedin.com/in/barun-acharya/) | [26 August 2023](https://community.cncf.io/events/details/cncf-cloud-native-security-india-presents-kubernetes-security-meetup/)
 [Kube-bench](https://github.com/aquasecurity/kube-bench) | [Aqua Security](https://www.aquasec.com/) | | ❌
 [Falco](https://github.com/falcosecurity/falco) | [Sysdig](https://sysdig.com/) | |
 [Kyverno](https://github.com/kyverno/kyverno) | [Nirmata](https://nirmata.com/) | |
