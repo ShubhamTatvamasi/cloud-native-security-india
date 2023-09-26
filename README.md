@@ -5,7 +5,7 @@
 Project | Company | Topic Covered | Speaker | Meetup Date
 ---|---|---|---|---
 [KubeArmor](https://github.com/kubearmor/KubeArmor) | [AccuKnox](https://github.com/accuknox) | ✅ | [Barun Acharya](https://www.linkedin.com/in/barun-acharya/) | [26 August 2023](https://community.cncf.io/events/details/cncf-cloud-native-security-india-presents-kubernetes-security-meetup/)
-[Kube-bench](https://github.com/aquasecurity/kube-bench) | [Aqua Security](https://www.aquasec.com/) | | ❌
+[Kube-bench](https://github.com/aquasecurity/kube-bench) | [Aqua Security](https://www.aquasec.com/) | ❌ | 
 [Falco](https://github.com/falcosecurity/falco) | [Sysdig](https://sysdig.com/) | |
 [Kyverno](https://github.com/kyverno/kyverno) | [Nirmata](https://nirmata.com/) | |
 [Kubescape](https://github.com/kubescape/kubescape) | [ARMO](https://www.armosec.io) | |
