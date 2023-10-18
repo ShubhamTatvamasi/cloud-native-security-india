@@ -1,6 +1,7 @@
 # cloud-native-security-india
 
 [Best Practices](https://github.com/cncf/communitygroups/blob/main/best_practices.md)
+[CNCF Security Projects](https://landscape.cncf.io/card-mode?category=security-compliance)
 
 Project | Company | Topic Covered | Speaker | Meetup Date
 ---|---|---|---|---
